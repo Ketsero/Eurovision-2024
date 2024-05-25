@@ -1,4 +1,3 @@
-# Eurovision-2024
 <html lang="en">
 <head>
     <meta charset="UTF-8">
